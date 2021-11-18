@@ -1,0 +1,15 @@
+﻿  Nut.cpp
+D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\Nut_Button\Nut.cpp(10,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\Nut_Button\Nut.cpp(46,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\Nut_Button\Nut.cpp(79,41): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\Nut_Button\Nut.cpp(108,78): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\Nut_Button\Nut.cpp(108,46): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Nut_Button.vcxproj -> D:\Daniel's Files\Downloads\Coding\C++\SFML_Projects_x64\x64\Debug\Nut_Button.exe
