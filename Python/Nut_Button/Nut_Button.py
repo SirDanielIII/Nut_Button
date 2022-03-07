@@ -81,6 +81,8 @@ class Main(object):
             # The font I used is a bit bugged so I used some manual offsetting (see below)
             draw_text("NUT", (255, 255, 255), self.nut_font, self.surface, (self.width / 2) - 14, (self.height / 2) + 36)
             pg.display.update()
+            # Kris is cool
+            # Amir likes math
 
 
 # ----------------------------------------------------------------------------------------------------------------------
